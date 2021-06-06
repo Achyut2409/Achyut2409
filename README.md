@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Achyut2409
 - 👀 I’m interested in python
 - 🌱 I’m currently learning git
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me ...
 
 <!---
